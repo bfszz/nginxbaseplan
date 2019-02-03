@@ -3,7 +3,6 @@ pkg_origin=nginxtest
 pkg_version=1.15.8
 pkg_source="https://nginx.org/download/nginx-${pkg_version}.tar.gz"
 pkg_upstream_url=https://nginx.org/
-pkg_shasum=a3d8c67c2035808c7c0d475fffe263db8c353b11521aa7ade468b780ed826cc6
 pkg_deps=(core/glibc core/libedit core/ncurses core/zlib core/bzip2 core/openssl core/pcre)
 pkg_build_deps=(core/gcc core/make core/coreutils)
 pkg_lib_dirs=(lib)
