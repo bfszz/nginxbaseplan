@@ -1,6 +1,6 @@
 pkg_name=nginx
 pkg_origin=nginxtest
-pkg_version=1.15.8
+pkg_version=1.15.6
 pkg_description="NGINX web server."
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=('BSD-2-Clause')
