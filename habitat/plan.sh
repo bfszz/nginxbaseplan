@@ -1,6 +1,6 @@
 pkg_name=nginx
 pkg_origin=nginxtest
-pkg_version=1.15.8
+pkg_version=1.15.2
 pkg_source="https://nginx.org/download/nginx-${pkg_version}.tar.gz"
 pkg_upstream_url=https://nginx.org/
 pkg_deps=(core/glibc core/libedit core/ncurses core/zlib core/bzip2 core/openssl core/pcre)
